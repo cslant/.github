@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://cslant.com" target="_blank">
-        <img src="/assets/img/cslant-logo.webp?raw=true" width="500" alt="CSlant logo">
+        <img src="/assets/img/cslant-logo.svg?raw=true" width="500" alt="CSlant logo">
     </a>
 </p>
 

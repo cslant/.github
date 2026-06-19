@@ -1,0 +1,35 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 439" width="1024" height="439">
+	<style>
+		.s0 { fill: #278143 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer 1">
+	</g>
+	<g id="Layer 2">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m976.73 439.87h-928.81c-26.43 0-47.85-21.44-47.85-47.89v-344.16c0-26.44 21.42-47.88 47.85-47.88h928.81c26.42 0 47.85 21.44 47.85 47.88v344.16c0 26.45-21.43 47.89-47.85 47.89z"/>
+		</g>
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m139.43 224.24v-7.72q0.01 0 0 0v-63.47h-17.12l-26.67 26.25v35.9 10.36 35.9l26.67 26.25h17.12v-63.47q0.01 0 0 0z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m146.75 153.03h47.42l26.99 27.36v26.82h-44.86v-26.9h-29.64c0 0 0.41-26.96 0.09-27.28z"/>
+				<path id="&lt;Path&gt;" class="s1" d="m146.75 287.71h47.42l26.99-27.36v-26.82h-44.86v26.9h-29.64c0 0 0.41 26.97 0.09 27.28z"/>
+			</g>
+			<path id="&lt;Path&gt;" class="s1" d="m343.63 201.43h-61.69v-48.36h-0.19-14.67l-27.09 27.11v30.44l27.21 27.23h57.35v49.79h19.11l25.88-26.82v-33.2z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m288.87 153.05v23.99h35.81v14.79h40.7v-15.94l-22.82-22.83z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m317.34 287.64v-23.99h-35.81v-14.79h-40.7v15.94l22.81 22.83z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m318.4 287.91v-25.07h-36.79v-15.45h-41.82v16.65l23.44 23.86z"/>
+			<path id="&lt;Path&gt;" fill-rule="evenodd" class="s1" d="m435.54 153.24v134.64h-45.92v-134.64z"/>
+			<path id="&lt;Path&gt;" fill-rule="evenodd" class="s1" d="m895.4 189.57v98.31h-45.92v-98.31z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m813.12 183.48v-30.12h118.63v30.12z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m716.16 287.88h-45.91v-121.28l45.91 76.22z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m752 153.24h45.92v121.27l-45.92-76.21z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m797.95 287.88h-45.92l-81.95-134.64h45.91z"/>
+			<path id="&lt;Path&gt;" class="s1" d="m464.45 243.49v17.09h-21.7v27.3h21.7 40.81v-27.3-17.09z"/>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Path&gt;" class="s1" d="m512.41 287.88h45.92l26.24-68.87-23.05-60.02z"/>
+			</g>
+			<path id="&lt;Path&gt;" class="s1" d="m661.32 287.88l-51.3-134.64h-45.92l35.38 92.83h-19.37l-10.48 27.69h40.4l5.37 14.12z"/>
+		</g>
+	</g>
+</svg>
